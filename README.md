@@ -1,4 +1,4 @@
-# PyChess Engine (replace with your name)
+# PyChess Engine
 
 A chess engine written in Python, built as a learning project.
 
